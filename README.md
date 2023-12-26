@@ -2,7 +2,7 @@
 
 Andrew Yniguez
 
-    - 
+    - Cipher: Encode or decode text files.
 
     -
 
