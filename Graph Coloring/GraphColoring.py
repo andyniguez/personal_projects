@@ -1,13 +1,11 @@
 #------------------------------------------------------------------------------ 
 #  Andrew Yniguez
-#  anynigue
-#  CSE 30-02 Spring 2021
-#  pa6
-#
+#  2021
+#  
 #  GraphColoring.py
 #
 #  This file contains functions that take in 2 files, one output one input, and
-#  creates a graph and gets a coloring pattern using the file Graph.py and
+#  creates a graph and gets a coloring pattern using the file graph.py and
 #  prints the output onto the putput file.
 #
 #------------------------------------------------------------------------------
