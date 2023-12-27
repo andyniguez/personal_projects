@@ -1,14 +1,20 @@
 Andrew Yniguez 
 
-Purpose: Encode or decode a text file.
+Purpose: 
+         
+     Encode or decode a text file.
 
-Files: cipher.py
-
-       /text file one/ A text file with the message you want to encode or decode.
+Files: 
           
-       /text file two/ A text file where you want to write the result to.
+     cipher.py
 
-Use: In a terminal enter the line: 
+     /text file one/ A text file with the message you want to encode or decode.
+          
+     /text file two/ A text file where you want to write the result to.
+
+Use: 
+     
+     In a terminal enter the line: 
 
      python3 cipher.py
 
